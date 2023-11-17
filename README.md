@@ -18,12 +18,13 @@
 <!--[<img align="left" alt="EugeneRadcliff2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="EugeneRadcliff2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--[<img align="left" alt="EugeneRadcliff2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+[<img align="left" alt="EugeneRadcliff2 | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />][website]
 
 <!--[twitter]: https://twitter.com/EugeneRadcliff2-->
 [youtube]: https://www.youtube.com/@EugeneRadcliff2
 <!--[instagram]: https://www.instagram.com/EugeneRadcliff2/-->
 [linkedin]: https://linkedin.com/in/eugene-radcliff-ii
-
+[website]: https://www.ejradcliff.com
 
 <!--
 **eugeneradcliff2/eugeneradcliff2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
