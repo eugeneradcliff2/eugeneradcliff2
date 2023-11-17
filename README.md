@@ -2,10 +2,15 @@
 <h1>Hi, I'm Eugene! <br/><a href="https://www.linkedin.com/in/eugene-radcliff-ii">Cybersecurity Professional</a>, <a href="https://github.com/eugeneradcliff2">Python Coder</a>,  <a href="https://www.youtube.com/@EugeneRadcliff2">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b>Fun in Python with Pong Game OOP</b>
+  - [Coding Nostalgia: Fun in Python with Pong Game OOP](https://medium.com/@eugeneradcliff2/coding-nostalgia-fun-in-python-with-pong-game-oop-6e87f9e3f367)
+  - <b>Replit - Python Projects</b>
+  - [Python OOP Coffee Machine, BlackJack, Higher Lower Game, and more]((https://replit.com/@ejrad2))
 
-- [Fun in Python with Pong Game OOP](https://medium.com/@eugeneradcliff2/coding-nostalgia-fun-in-python-with-pong-game-oop-6e87f9e3f367)
+<!--
+- <b>Heading</b>
 - [Title](Link)
-
+-->
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -19,12 +24,14 @@
 [<img align="left" alt="EugeneRadcliff2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--[<img align="left" alt="EugeneRadcliff2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 [<img align="left" alt="EugeneRadcliff2 | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />][website]
+[<img align="left" alt="EugeneRadcliff2 | Replit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][replit]
 
 <!--[twitter]: https://twitter.com/EugeneRadcliff2-->
 [youtube]: https://www.youtube.com/@EugeneRadcliff2
 <!--[instagram]: https://www.instagram.com/EugeneRadcliff2/-->
 [linkedin]: https://linkedin.com/in/eugene-radcliff-ii
 [website]: https://www.ejradcliff.com
+[replit]: https://replit.com/@ejrad2
 
 <!--
 **eugeneradcliff2/eugeneradcliff2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
