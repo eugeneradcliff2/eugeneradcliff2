@@ -1,12 +1,13 @@
 ### Hi there 👋
 <h1>Hi, I'm Eugene! <br/><a href="https://www.linkedin.com/in/eugene-radcliff-ii">Cybersecurity Professional</a>, <a href="https://github.com/eugeneradcliff2">Python Coder</a>,  <a href="https://www.youtube.com/@EugeneRadcliff2">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Fun in Python with Pong Game OOP</b>
-  - [Coding Nostalgia: Fun in Python with Pong Game OOP](https://medium.com/@eugeneradcliff2/coding-nostalgia-fun-in-python-with-pong-game-oop-6e87f9e3f367)
-  - <b>Replit - Python Projects</b>
-  - [Python OOP Coffee Machine, BlackJack, Higher Lower Game, and more]((https://replit.com/@ejrad2))
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Python OOP Fun with Pong Game</b>
+  - [Coding Nostalgia: Fun in Python with Pong Game OOP](https://medium.com/@eugeneradcliff2/coding-nostalgia-fun-in-python-with-pong-game-oop-6e87f9e3f367)
+- <b>Replit - Python Projects - OOP</b>
+  - [Coffee Machine, BlackJack, Higher Lower Game, and more](https://replit.com/@ejrad2)
 <!--
 - <b>Heading</b>
 - [Title](Link)
