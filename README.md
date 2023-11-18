@@ -13,9 +13,32 @@
 - [Title](Link)
 -->
 
+<h2>📜 Certifications:</h2>
+
+- [CompTIA Cybersecurity Analyst+](https://www.comptia.org/certifications/cybersecurity-analyst)
+- [CompTIA Security+ CE](https://www.comptia.org/certifications/security)
+- [Microsoft Certified Solutions Associate](https://www.cbtnuggets.com/blog/certifications/microsoft/roadmap-to-success-mcsa-certification-guide)
+- [CompTIA A+](https://www.comptia.org/certifications/a)
+- Previous CCNA
+- Network+ training
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Title](Link)
+
+<h2>👩‍🏫 Education</h2>
+
+- [TryHackMe Introduction to Security](https://tryhackme.com/)
+- [TryHackMe Cyber Defense](https://tryhackme.com/)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
+- [Jason Dion Cybersecurity+](https://www.udemy.com/course/comptiacsaplus/)
+- [Complete Ethical Hacking Bootcamp 2023 - Zero To Mastery Academy](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/)
+- [Professor Messer Security+](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
+- [Professor Messer Network +](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
+- [Professor Messer A+](https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb)
+- [Garth Schulte's Windows Server Microsoft Certified Solutions Associate MCSA - CBT Nuggets](https://www.cbtnuggets.com/it-training/microsoft-windows-server/windows-server-mcsa-2012)
+- [Jeremy Ciaora's Cisco Certified Network Associate CCNA - CBT Nuggets](https://www.cbtnuggets.com/it-training/cisco/ccna)
+- [Louisiana State University - LSU - Bachelors of Science - Computer Science](https://www.lsu.edu/)
 
 
 <h2> 🤳 Connect with me:</h2>
