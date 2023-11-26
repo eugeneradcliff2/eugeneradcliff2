@@ -6,6 +6,8 @@
 
 - <b>Cybersecurity Tutorial - Create Active Directory Home Lab</b>
   - [Cyber Security Ride Along - Create AD Home Lab FREE with Virtual Machine and Server](https://youtu.be/Yj3BMlxpMt8)
+- <b>OOP Concepts and Scalability with Snake Game</b>
+  - [Slithering Python OOP Concepts into the Snake Game](https://medium.com/@eugeneradcliff2/slithering-python-oop-concepts-into-the-snake-game-57cdb34437e4) 
 - <b>Python OOP Fun with Pong Game</b>
   - [Coding Nostalgia: Fun in Python with Pong Game OOP](https://medium.com/@eugeneradcliff2/coding-nostalgia-fun-in-python-with-pong-game-oop-6e87f9e3f367)
 - <b>Replit - Python Projects - OOP</b>
