@@ -2,10 +2,18 @@
 <h1>Hi, I'm Eugene! <br/><a href="https://www.linkedin.com/in/eugene-radcliff-ii">Cybersecurity Professional</a> and <a href="https://github.com/eugeneradcliff2">Python Coder</a> <!--,  <a href="https://www.youtube.com/@EugeneRadcliff2">New YouTuber</a>--> </h1>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects and Tutorials:</h2>
 
-- <b>Cybersecurity Tutorial - Create Active Directory Home Lab</b>
-  - [Cyber Security Ride Along - Create AD Home Lab FREE with Virtual Machine and Server](https://youtu.be/Yj3BMlxpMt8)
+- <b>Cybersecurity Ride Along - Credentialed Scan and Threat Remediation Management</b>
+  - [Credentialed Scan and Threat Remediation - Vulnerability Management](https://www.youtube.com/watch?v=5A2Wh0ue_zY)
+- <b>Cybersecurity Ride Along - Vulnerability Management - Nessus Network Scan on our Security Lab</b>
+  - [Network Scan on our Lab - Vulnerability Management](https://www.youtube.com/watch?v=c0MoW-A7ZDU)
+- <b>Cybersecurity Ride Along - Installing Tenable Nessus on Kali and Scanning</b>
+  - [Installing Nessus on Kali and Scanning Cybersecurity Lab - Vulnerability Management](https://www.youtube.com/watch?v=Fjm2gbIDiRM)
+- <b>Cybersecurity Ride Along - Installing Kali Linux VM in Home Lab</b>
+  - [Installing Kali Linux VM in our Windows Server Cybersecurity Lab ](https://www.youtube.com/watch?v=V3akynoKKZo)
+- <b>Cybersecurity Ride Along - Create Active Directory Home Lab</b>
+  - [Create AD Home Lab FREE with Virtual Machine and Server](https://youtu.be/Yj3BMlxpMt8)
 - <b>OOP Concepts and Scalability with Snake Game</b>
   - [Slithering Python OOP Concepts into the Snake Game](https://medium.com/@eugeneradcliff2/slithering-python-oop-concepts-into-the-snake-game-57cdb34437e4) 
 - <b>Python OOP Fun with Python Pong Game</b>
