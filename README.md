@@ -7,7 +7,7 @@
 - <b>Cybersecurity Ride Along - Credentialed Scan and Threat Remediation Management</b>
   - [Credentialed Scan and Threat Remediation - Vulnerability Management](https://www.youtube.com/watch?v=5A2Wh0ue_zY)
 - <b>Cybersecurity Ride Along - Vulnerability Management - Nessus Network Scan on our Security Lab</b>
-  - [Network Scan on our Lab - Vulnerability Management](https://www.youtube.com/watch?v=c0MoW-A7ZDU)
+  - [Nessus Network Scan on our Lab - Vulnerability Management](https://www.youtube.com/watch?v=c0MoW-A7ZDU)
 - <b>Cybersecurity Ride Along - Installing Tenable Nessus on Kali and Scanning</b>
   - [Installing Nessus on Kali and Scanning Cybersecurity Lab - Vulnerability Management](https://www.youtube.com/watch?v=Fjm2gbIDiRM)
 - <b>Cybersecurity Ride Along - Installing Kali Linux VM in Home Lab</b>
